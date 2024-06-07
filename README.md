@@ -66,7 +66,7 @@ The model is trained using Ridge Regression, a type of linear regression that in
 - Flask: [Link](https://flask.palletsprojects.com/)
 - Scikit-learn: [Link](https://scikit-learn.org/)
 
-## Contributing
+## Contribution
 Contributions to the project are welcome. To contribute:
 
 1. Fork the repository
